@@ -1,0 +1,36 @@
+#include <DHT.h>
+
+#define pinsensor 5
+
+DHT DHT11;
+
+void setup(){
+
+	Serial.begin(9600);
+	Serial.print("Sensor\tTemperatura\tHumedad);
+	DHT11.setup(pinSensor);
+	Serial.println();
+}
+
+
+void F_Imprime(string stat, float temo, float hum){
+
+	Serial.print(stat);
+	Serial.print("\t");
+	Serial.print(temo);
+	Serial.print("\t\t");
+	Serial.print(hum);
+}
+
+
+void loop(){
+
+	delay(DHT11.getMinimunSamplingPeriod());
+	string Stat = DHT11.getStatusString();
+	float Temperatu = DHT11.getTemperature();
+	float Humed = DHT11.getHumidity();
+
+	F_imprime*stat, temp, hum);
+
+}
+
