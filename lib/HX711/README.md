@@ -29,7 +29,3 @@ Although other libraries exist, I needed a slightly different approach, so here'
 3. Place a known weight on the scale and call get_units(10).
 4. Divide the result in step 3 to your known weight. You should get about the parameter you need to pass to set_scale.
 5. Adjust the parameter in step 4 until you get an accurate reading.
-
-# How to use
-See the example in examples/HX711SerialBegin. Please don't use examples/HX711Serial anymore. It is deprecated because the pin definition within the constructor
-is not timing safe. (#29)
