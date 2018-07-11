@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "abejas-iot",
+  "private_key_id": "ab5b057c870ff2ae860d9e4325b220da3ef0c602",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCseov31cexvJqW\nSCyCWviiMe/pJSAX5GRSV/IsJ0GepHn+dSEFjotd19hO5RWZ6ZxmdWlSt7k+E/F+\nGtndrM6ngQcaNxyDRsGPWiNTthscVt+6FwqDaLzFar3BQeXBTAXlgi42P5rR1mku\nkjHQOvwoVUlHJCGr1KfJgKGwvCUOCoHbtRxvNr2KVTUZ6GAPqpsXHgwlEfkMn8nS\nbfOsOFhKVsC3brFfkx4G5FWT9sFNk9YeJBUk5Ips9Dr3IlHWoxcS3oq3FeH2S8h1\ni9ghUXiXBxQGC0bD1c8zzlv9fTgqXN+JYVmG8N0+rRW52t6W6S7RgbaP148BYyFa\nbiw2VXZVAgMBAAECggEABSrzPHBHbzGwNjCSw/hj4aR+5HOENK+gaE2fxb4c8C05\noPBTaLY/1KsV1C3knmcfFGoZPhZEEG2znXNCb1ijUp0iCYYB16jzBxQjj3lbBM6a\ni6wT/T2/zwwElmU6GK4Fen4byUf18jzLHeqQO07b++r01AC90RmBJZ9o6xiXd30T\ni3imbcMhRTIySKUn4W2UWhLj2Ehpcu3mbN2DeDVvKyY85geP6/x8O+EleWfzamn1\nSGe1WOIAlDBRzAkvdxAGfpNsj9hq9lZn9h2QLJopI31Zxeh1mGPV3lJLSDzW3K1l\nKU1i5qACj6EebqiVPW2rRMxKxZtVhknHLz14JgNVIQKBgQDjo/cHfJz1AoerKdT/\nCIqjqfgM4CeO/lFriiXM8v5o03T1SfEaRKLpiekUX91CGna925FWv0/1JMl3e4Mm\nJyjTa9EK7rhBVvucFsHG+ykTkKEx4fwaMVCHV4r6MpkI1GfFRy+PBk4Ou9W/kQMd\noZx6MfBWS+9e+BSrwL51ktnK9QKBgQDB91Twtf90nK0VWYgQQ+XFHrKswOrgqzg1\nwgGfbIm8DxEOw0HlOEjAFoijpqtcM/kNw6grymHqStbF6eQebMxNjDKFWVGw242T\ns5RPqN5FFTJWjFhvALG7XlIs0LpxhoZbvYGrNi6ErJyAr258lyU7oM2ahILinKJh\ne77xu26h4QKBgFxmr90gHe3uCvfVURn8c5ofYgqH6kbGwHHwb4uTjuUqAC2Yx/8r\noR0+15dnmj4807oZKBOYMHKHbifLwN55wr6e4wmXAL+0+QjQy/Ni+7dvW58N5fET\n12Y4iLcqVqgY385aKNnba0/butW5nRQoB4YqQy4kQJPCC1H0ONsssq8JAoGAMf9M\nAMQY9fkQ0GkEnpSx3G6+RbNwl7rqwUih3HNAyZ3kmraP/MLWVdU5IV3r29d1wiuF\n5MvFE3x5Agj5CTKoMvEJcMAGQ51EUCdA+oufx5TgJdkFTo+SQKbebbjb5jlz1p/x\nla1grkhECxOtWiYnrcgUV1kC1+DiJlicbnkO2mECgYEAk1RZ/HlEk6ON2C4PG4IL\nzPywr0X3vU/bqPMf7yHWOMdn1uLBb3lxCNaOLeSsdOWiBnpDfoJBNDjHcpcZEAB4\nxSjqDcj9N3vzDRgEcONohPyI3F3G5Un3pAZgEEKns892tHPnNPQjk8rfDvdY0EoE\nfV0gbcxmpLwkX3dV/IXqGkc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "abejas-cuenta-de-servicio@abejas-iot.iam.gserviceaccount.com",
+  "client_id": "116743843728263384707",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/abejas-cuenta-de-servicio%40abejas-iot.iam.gserviceaccount.com"
+}
