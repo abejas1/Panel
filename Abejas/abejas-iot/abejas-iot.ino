@@ -84,7 +84,7 @@ void loop() {
    Serial.println(ilum2);
     delay(2000);
   Serial.print("Peso: ");
-  Serial.print((-1)*(scale1.get_units())+(-1)*(scale2.get_units())+scale3.get_units()+scale4.get_units(), 1); //scale.get_units() returns a float
+  Serial.print(scale1.get_units()+(-1)*(scale2.get_units())+(-1)*(scale3.get_units())+scale4.get_units(), 1); //scale.get_units() returns a float
   Serial.print(" lbs"); //You can change this to kg but you'll need to refactor the calibration_factor
   Serial.println();
    delay(2000);
